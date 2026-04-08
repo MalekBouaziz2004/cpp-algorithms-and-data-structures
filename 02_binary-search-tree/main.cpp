@@ -1,5 +1,5 @@
 // ADS Praktikum 1.2 BST
-// Name: Max Mustermann
+// Name: Malek Bouaziz
 #include "bst.h"
 #include <iostream>
 #include <queue> // notwendig für Levelorder
