@@ -1,5 +1,5 @@
 // ADS Praktikum 2.1 Sortieren
-// Name: Max Mustermann
+// Name: Malek Bouaziz
 #include "sorting.h"
 #include <cmath> // pour pow()
 
